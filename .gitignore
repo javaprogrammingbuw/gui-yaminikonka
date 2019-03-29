@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+#latex file
+*.tex
+*.gz
+*.out
+*.aux
+
 # Log file
 *.log
 
